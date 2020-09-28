@@ -1,0 +1,19 @@
+.containerStyle{
+    width: 502px;
+    margin: 0 auto;
+}
+.lineStyle{
+    width: 149px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.loginWithstyle{
+    border-radius: 54px;
+    padding: 7px;
+    border: 2px solid lightgray;
+    cursor: pointer;
+}
+.loginWithstyle img{
+    margin-left: -13px;
+}

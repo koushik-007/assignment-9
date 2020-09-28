@@ -1,0 +1,13 @@
+.totalWidth{
+    display: flex;
+    color: white;
+    text-align: justify;
+}
+.halfWidth{
+    width: 50%;
+    margin: 30px;
+}
+.card{
+    border-radius: 10px;
+    cursor: pointer;
+}
